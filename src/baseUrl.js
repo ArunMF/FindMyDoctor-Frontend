@@ -1,0 +1,1 @@
+export const baseURL = 'https://findmydoctor-8awy.onrender.com'
